@@ -16,7 +16,7 @@
 
 ### 🛠 My Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,express,nestjs,mongodb,javascript,typescript,html,css,git,github,bootstrap,tailwind,vercel,postman)
+![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,express,nestjs,mongodb,javascript,typescript,html,css,git,github,bootstrap,tailwind,vercel,postman,docker)
 
 ---
 
