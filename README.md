@@ -46,7 +46,7 @@ public games API to fetch and filter titles by platform and category.
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([[https://www.linkedin.com/](https://www.linkedin.com/in/mohammed-esmail-34626933b/)](https://www.linkedin.com/in/mohammed-esmail-34626933b/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)]([[https://yourportfolio.com](https://mohammedesmaill.github.io/)](https://mohammedesmaill.github.io/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohammed-esmail-34626933b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://mohammedesmaill.github.io/)
 
 
